@@ -1,5 +1,20 @@
-# python
+# Python
 
-Ce sont des projets que j'ai realiser en première année de Bts Sio.
-J'ai utiliser le langage Python.
-Vous trouverez un tp sur les boucles et un Tp sur l'algorithmique appliquée.
+OUTILS:
+
+- Python
+- Git
+
+Afin d'apprendre le langage python nous avons fais plusieurs TP.
+
+<b>TP ALGORITHMIQUE:</b>
+
+
+
+
+
+
+
+
+
+<b>TP BOUCLE:</b>
