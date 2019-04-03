@@ -21,3 +21,12 @@ Ce code permet de compter les lettres dans une phrase et ensuite affiche grâce 
 
 
 - <b>TP BOUCLE:</b>
+
+Exemple exercice 1:
+
+<a href="https://www.casimages.com/i/19040304243524761116186562.png.html" target="_blank" title="hebergement d'image"><img src="https://nsm09.casimages.com/img/2019/04/03//19040304243524761116186562.png" border="0" alt="hebergement d'image" /></a>
+
+Il faut saisir un nombre lors du "input".
+Ensuite, nous avons une boucle qui va soustraire 1 au nombre saisie jusqu'à atteindre 0.
+
+<a href="https://www.casimages.com/i/19040304243624761116186563.png.html" target="_blank" title="hebergement d'image"><img src="https://nsm09.casimages.com/img/2019/04/03//19040304243624761116186563.png" border="0" alt="hebergement d'image" /></a>
