@@ -7,7 +7,7 @@ OUTILS:
 
 Afin d'apprendre le langage python nous avons fais plusieurs TP.
 
-<b>TP ALGORITHMIQUE:</b>
+- <b>TP ALGORITHMIQUE:</b>
 
 
 
@@ -17,4 +17,4 @@ Afin d'apprendre le langage python nous avons fais plusieurs TP.
 
 
 
-<b>TP BOUCLE:</b>
+- <b>TP BOUCLE:</b>
